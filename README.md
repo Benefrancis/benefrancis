@@ -5,9 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
-    
-    [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-    [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=benefrancis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Benefrancis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
