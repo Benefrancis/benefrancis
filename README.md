@@ -7,15 +7,23 @@
 <p>I also have a degree in Law, I was approved in the XX national exam of the Brazilian Bar Association (OAB). This degree helps me a lot to work in the company I work for, as we are in the area of ​​justice and our requirements are complex. A degree in Law is an important differentiator.</p>
 <p>Currently I work as Head of the Systems Development Center of the Regional Attorney of the Republic of the Third Region (São Paulo and Mato Grosso do Sul).</p><p> </p><p>In 2021 I developed the Água Boa de Beber tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
 <p>The video that presents the tool is published on youtube and can be accessed through the link:</p>
-    <a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/youtube.png"/></a>
+<a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
+  <img src="https://agua.mpf.mp.br/assets/img/logo.png" width="100%"/>
+</a>
 <p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video at this link:</p>
-      <a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/youtube.png"/></a>
+<a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
+  <img src="http://bnmdigital.mpf.mp.br/img/imagem-youtube-projeto-agua-boa.png">
+</a>
 <p>In 2019 I became a collaborator (pro bono - voluntary activity) of the Water Connection project. I started to study public data on water quality in Brazil. Modeled the data using datawarewouse techniques, generated analytical reports with the ELK stack (Elasticsearch, Logstash and Kibana). With that, I started to show the results of the data for the other collaborators of the project as well as for prosecutors in the environmental area, judges, researchers, academic entrepreneurs and etc.</p>
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
     <img id="img-logo-menu"  height="50"  src="https://conexaoagua.mpf.mp.br/++theme++conexao-agua-editavel5/components/navbar/img/old-logo-conexao-agua-branco.png" alt="Link para o site Conexão Água" style="margin: 50px;float: left;">
 </a>
      
  <p>In 2018 I developed  the website of the water connection project that is classified in the area of ​​governance and sustainability management.</p>
+    
+<a href="https://conexaoagua.mpf.mp.br/" target="_blank">
+  <img src="http://bnmdigital.mpf.mp.br/img/img-site-conexao.png" width="100%">
+</a>
     
 
  <a href="http://bnmdigital.mpf.mp.br/" target="_blank">
