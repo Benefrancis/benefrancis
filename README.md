@@ -38,7 +38,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/benefrancis">
+  <a href="https://github.com/benefrancis" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benefrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 50px;"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&layout=compact&langs_count=7&theme=dracula" style="margin: 50px;"/>
 </div>
