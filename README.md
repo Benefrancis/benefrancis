@@ -35,4 +35,8 @@
  
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benefrancis&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=benefrancis)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
 </div>
