@@ -47,7 +47,7 @@
 </a>
  
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/img-site-conexao.png" width="100%">
+  <img src="http://bnmdigital.mpf.mp.br/img/new-img-site-conexao.png" width="100%">
 </a>
     
     
