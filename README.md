@@ -20,7 +20,8 @@
  
 <div> 
   <a href="https://wa.me/5511982816536" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511982816536"/>
+        
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511982816536"/>
   </a>
   <a href="https://instagram.com/benefrancis" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
