@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
   <img src="http://bnmdigital.mpf.mp.br/img/imagem-youtube-projeto-agua-boa.png">
 </a>
-<a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
+<a href="https://agua.mpf.mp.br" target="_blank">
   <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber-grafico.png">
 </a>
   
