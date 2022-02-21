@@ -21,6 +21,9 @@
   <img   align="center" alt="Benefrancis-HTML" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
   <img   align="center" alt="Benefrancis-CSS" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  
+  <img   align="center" alt="Benefrancis-Bootstrap" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
 
  </div>
   
@@ -43,7 +46,10 @@
 
   <img align="center" alt="Benefrancis-Oracle" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   
+  <img align="center" alt="Benefrancis-MongoDb" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
   <img align="center" alt="Benefrancis-Mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 
  </div>
   
@@ -51,6 +57,8 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Benefrancis-Oracle"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+  <img align="center" alt="Benefrancis-Filezilla"  height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+
 
 </div>
   
