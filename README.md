@@ -8,8 +8,25 @@
 <p>Currently I work as Head of the Systems Development Center of the Regional Attorney of the Republic of the Third Region (São Paulo and Mato Grosso do Sul).</p><p> </p><p>In 2021 I developed the Água Boa de Beber tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
 <p>The video that presents the tool is published on youtube and can be accessed through the link:</p>
     <a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/youtube.png"/></a>
-<p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video at this link:  https://youtu.be/m8g5FtaurD4?t=134</p><p>In 2019 I became a collaborator (pro bono - voluntary activity) of the Water Connection project. I started to study public data on water quality in Brazil. Modeled the data using datawarewouse techniques, generated analytical reports with the ELK stack (Elasticsearch, Logstash and Kibana). With that, I started to show the results of the data for the other collaborators of the project as well as for prosecutors in the environmental area, judges, researchers, academic entrepreneurs and etc.</p>
-<p>In 2018 I developed  the website of the water connection project that is classified in the area of ​​governance and sustainability management.</p><p>In 2013, I developed the site Brasil Não Mais Digital, a successful project that already has more than 5.5 million documents accessed since August 2013.</p><p>The project aims to to keep the memory of the dictatorial period in Brazil. We can define BRAZIL: NEVER AGAIN as the most comprehensive investigation about torture carried out by citizens in their country.</p><p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
+<p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video at this link:</p>
+      <a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/youtube.png"/></a>
+<p>In 2019 I became a collaborator (pro bono - voluntary activity) of the Water Connection project. I started to study public data on water quality in Brazil. Modeled the data using datawarewouse techniques, generated analytical reports with the ELK stack (Elasticsearch, Logstash and Kibana). With that, I started to show the results of the data for the other collaborators of the project as well as for prosecutors in the environmental area, judges, researchers, academic entrepreneurs and etc.</p>
+
+    
+ <p>In 2018 I developed  the website of the water connection project that is classified in the area of ​​governance and sustainability management.</p>
+    
+
+ <a href="http://bnmdigital.mpf.mp.br/" target="_blank">
+    <img id="img-logo-menu" height="96" width="96"  src="http://bnmdigital.mpf.mp.br/inc/images/header/new-logo_bnm_min.png" alt="" style="margin-right: 50px;">
+ </a>
+    
+<p>In 2013, I developed the site Brasil Não Mais Digital, a successful project that already has more than 5.5 million documents accessed since August 2013.</p><p>The project aims to to keep the memory of the dictatorial period in Brazil. We can define BRAZIL: NEVER AGAIN as the most comprehensive investigation about torture carried out by citizens in their country.</p><p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
+    
+    
+
+   
+    
+    
   </span>
 </div>
  
