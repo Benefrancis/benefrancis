@@ -14,7 +14,7 @@
 ##    
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
     
-<p>In 2021 I developed <a href="https://agua.mpf.mp.br/"  target="_blank">the Água Boa de Beber</a. tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
+    <p>In 2021 I developed <a href="https://agua.mpf.mp.br/"  target="_blank">the Água Boa de Beber</a>. tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
 <p>The video that presents the tool is published on youtube and can be accessed through the link:</p>
 
 <a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
