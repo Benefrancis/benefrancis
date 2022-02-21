@@ -64,8 +64,7 @@
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 
 <p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
-    
-    
+
   </span>
 </div>
  
