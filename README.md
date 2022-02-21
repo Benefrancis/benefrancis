@@ -28,6 +28,9 @@
 <a href="https://agua.mpf.mp.br" target="_blank">
   <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber-grafico.png">
 </a>
+<a href="https://agua.mpf.mp.br" target="_blank">
+  <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber-grafico2.png">
+</a>
   
 ##
   
