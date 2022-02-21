@@ -4,7 +4,8 @@
   <p>Hello! My name is <strong>Benefrancis</strong></p>
   <span align="left">
 <p>I have a degree in information systems and specialization in web software development.</p>
-<p>I also have a degree in Law, I was approved in the XX national exam of the Brazilian Bar Association (OAB). This degree helps me a lot to work in the company I work for, as we are in the area of ​​justice and our requirements are complex. A degree in Law is an important differentiator.</p>
+    
+<p>I also have a degree in Law, I was approved in the  <a href="https://oab.fgv.br/arq/621/26102016145835_Resultado_Definitivo_2_fase_Geral.pdf" target="_blank">XX national exam of the Brazilian Bar Association (OAB)</a>. This degree helps me a lot to work in the company I work for, as we are in the area of ​​justice and our requirements are complex. A degree in Law is an important differentiator.</p>
 <p>Currently I work as Head of the Systems Development Center of the Regional Attorney of the Republic of the Third Region (São Paulo and Mato Grosso do Sul).</p><p> </p>
 <a href="http://mpf.mp.br/" target="_blank">
   <img src="http://bnmdigital.mpf.mp.br/inc/images/realizadores/mpf.png">
