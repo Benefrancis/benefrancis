@@ -7,10 +7,7 @@
     
 <p>I also have a degree in Law, I was approved in the  <a href="https://oab.fgv.br/arq/621/26102016145835_Resultado_Definitivo_2_fase_Geral.pdf" target="_blank">XX national exam of the Brazilian Bar Association (OAB)</a>. This degree helps me a lot to work in the company I work for, as we are in the area of ​​justice and our requirements are complex. A degree in Law is an important differentiator.</p>
 <p>Currently I work as Head of the Systems Development Center of the Regional Attorney of the Republic of the Third Region (São Paulo and Mato Grosso do Sul).</p><p> </p>
-<a href="http://mpf.mp.br/" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/inc/images/realizadores/mpf.png">
-</a>
-    
+
     
 ##    
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
