@@ -85,7 +85,7 @@
 
   <img  align="center" alt="Benefrancis-Ionic" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="margin: 50px;"/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" alt="Benefrancis-REACT" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="margin: 50px;" />
 
 
 
