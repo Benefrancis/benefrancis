@@ -84,6 +84,9 @@
   <img   align="center" alt="Benefrancis-Angular" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="margin: 50px;" />
 
   <img  align="center" alt="Benefrancis-Ionic" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="margin: 50px;"/>
+  
+    <img  align="center" alt="Benefrancis-Ionic" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 50px;"/>
+
 
   <img align="center" alt="Benefrancis-Typescript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 50px;"/>
 
