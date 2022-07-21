@@ -43,11 +43,11 @@
     
 
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-    <img id="img-logo-menu"  src="site-conexao.png" alt="Link para o site Conexão Água">
+    <img id="img-logo-menu"  src="old-logo-conexao.png" alt="Link para o site Conexão Água">
 </a>
  
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-  <img src="site-bnm.png" width="100%">
+  <img src="site-conexao.png" width="100%">
 </a>
     
     
@@ -57,7 +57,7 @@
 <p>In 2013, I developed the site Brasil Nunca Mais Digital, a successful project that already has more than 5.5 million documents accessed since August 2013.</p><p>The project aims to to keep the memory of the dictatorial period in Brazil. We can define BRAZIL: NEVER AGAIN as the most comprehensive investigation about torture carried out by citizens in their country.</p>
 
 <a href="http://bnmdigital.mpf.mp.br/" target="_blank">
-  <img id="img-logo-menu" width="100%"  src="http://bnmdigital.mpf.mp.br/img/img-site-bnm.png" alt="Link para o site BNM Digital" style="margin: 50px;float: left;">
+  <img id="img-logo-menu" width="100%"  src="site-bnm.png" alt="Link para o site BNM Digital" style="margin: 50px;float: left;">
 </a>
 
 ##
