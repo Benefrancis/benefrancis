@@ -16,7 +16,7 @@
 <p>The video that presents the tool is published on youtube and can be accessed clicking on the image below:</p>
 
 <a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
-  <img src="agua-boa-inicio" width="100%"/>
+  <img src="agua-boa-inicio.png" width="100%"/>
 </a>
 <p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video clicking on the image below:</p>
 <a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
@@ -43,7 +43,7 @@
     
 
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-    <img id="img-logo-menu"  src="old-logo-conexao.png" alt="Link para o site Conexão Água">
+    <img id="img-logo-menu"  src="old-logo-conexao-agua-branco.png" alt="Link para o site Conexão Água">
 </a>
  
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
