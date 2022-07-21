@@ -16,17 +16,17 @@
 <p>The video that presents the tool is published on youtube and can be accessed clicking on the image below:</p>
 
 <a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber.png" width="100%"/>
+  <img src="agua-boa-inicio" width="100%"/>
 </a>
 <p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video clicking on the image below:</p>
 <a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/imagem-youtube-projeto-agua-boa.png">
+  <img src="interesse-publico.png">
 </a>
 <a href="https://agua.mpf.mp.br" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber-grafico.png">
+  <img src="monitoramento.png">
 </a>
 <a href="https://agua.mpf.mp.br" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/img-agua-boa-de-beber-grafico2.png">
+  <img src="detalhe-monitoramento.png">
 </a>
   
 ##
@@ -43,11 +43,11 @@
     
 
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-    <img id="img-logo-menu"  src="https://conexaoagua.mpf.mp.br/++theme++conexao-agua-editavel5/components/navbar/img/old-logo-conexao-agua-branco.png" alt="Link para o site Conexão Água">
+    <img id="img-logo-menu"  src="site-conexao.png" alt="Link para o site Conexão Água">
 </a>
  
 <a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-  <img src="http://bnmdigital.mpf.mp.br/img/new-img-site-conexao.png" width="100%">
+  <img src="site-bnm.png" width="100%">
 </a>
     
     
