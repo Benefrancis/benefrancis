@@ -145,7 +145,7 @@
   
   <img align="center" alt="Benefrancis-Filezilla"  height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="margin: 50px;"/>
   
-  <img align="center" alt="Benefrancis-Tomcat"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="margin: 50px;"/>
+  <img align="center" alt="Benefrancis-Tomcat"  height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="margin: 50px;"/>
 
 
 
