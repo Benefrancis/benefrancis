@@ -112,7 +112,8 @@
   <img align="center" alt="Benefrancis-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
  
  
- 
+ <img align="center" alt="Benefrancis-Go" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="margin: 50px;" />
+
   <img align="center" alt="Benefrancis-Go" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="margin: 50px;"/>
  
  
