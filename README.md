@@ -8,77 +8,10 @@
 <p>I have a degree in information systems and specialization in web software development.</p>
     
 <p>I also have a degree in Law, I was approved in the  <a href="https://oab.fgv.br/arq/621/26102016145835_Resultado_Definitivo_2_fase_Geral.pdf" target="_blank">XX national exam of the Brazilian Bar Association (OAB)</a>. This degree helps me a lot to work in the company I work for, as we are in the area of ​​justice and our requirements are complex. A degree in Law is an important differentiator.</p>
-<p>Currently I work as Head of the Systems Development Center of the Regional Attorney of the Republic of the Third Region (São Paulo and Mato Grosso do Sul).</p><p> </p>
 
-    
-##    
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 
-<p>In 2021 I developed the <a href="https://agua.mpf.mp.br/" target="_blank">Água Boa de Beber</a> tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
-<p>The video that presents the tool is published on youtube and can be accessed clicking on the image below:</p>
 
-<a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
-  <img src="agua-boa-inicio.png" width="100%"/>
-</a>
-<p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video clicking on the image below:</p>
-<a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
-  <img src="interesse-publico.png">
-</a>
-<a href="https://agua.mpf.mp.br" target="_blank">
-  <img src="monitoramento.png">
-</a>
-<a href="https://agua.mpf.mp.br" target="_blank">
-  <img src="detalhe-monitoramento.png">
-</a>
-  
-##
-  
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
-    
-<p>In 2019 I became a collaborator (pro bono - voluntary activity) of the Water Connection project. I started to study public data on water quality in Brazil. Modeled the data using datawarewouse techniques, generated analytical reports with the ELK stack (Elasticsearch, Logstash and Kibana). With that, I started to show the results of the data for the other collaborators of the project as well as for prosecutors in the environmental area, judges, researchers, academic entrepreneurs and etc.</p>
 
-    
-##
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
-     
- <p>In 2018 I developed  the website of the water connection project that is classified in the area of ​​governance and sustainability management.</p>
-    
-
-<a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-    <img id="img-logo-menu"  src="old-logo-conexao-agua-branco.png" alt="Link para o site Conexão Água">
-</a>
- 
-<a href="https://conexaoagua.mpf.mp.br/" target="_blank">
-  <img src="site-conexao.png" width="100%">
-</a>
-    
-    
-##
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
-    
-<p>In 2013, I developed the site Brasil Nunca Mais Digital, a successful project that already has more than 5.5 million documents accessed since August 2013.</p><p>The project aims to to keep the memory of the dictatorial period in Brazil. We can define BRAZIL: NEVER AGAIN as the most comprehensive investigation about torture carried out by citizens in their country.</p>
-
-<a href="http://bnmdigital.mpf.mp.br/" target="_blank">
-  <img id="img-logo-menu" width="100%"  src="site-bnm.png" alt="Link para o site BNM Digital" style="margin: 50px;float: left;">
-</a>
-
-##
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
-
-<p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
-
-  </span>
-</div>
- 
-##
-
-<div align="center">
-  <a href="https://github.com/benefrancis" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benefrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 50px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&layout=compact&langs_count=7&theme=dracula" style="margin: 50px;"/>
-</div>
-
- 
   ##
 <h2>Frontend</h2>
 <div style="display: inline_block"><br>
@@ -171,6 +104,76 @@
 
 </div>
   
+
+    
+##    
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+<p>In 2021 I developed the <a href="https://agua.mpf.mp.br/" target="_blank">Água Boa de Beber</a> tool. This tool is a web application to expose Brazilians to the analysis data of the quality of the water we drink. I started researching and modeling public data from water quality analyzes published by sanitation and water supply companies.</p>
+<p>The video that presents the tool is published on youtube and can be accessed clicking on the image below:</p>
+
+<a href="https://www.youtube.com/watch?v=VLn-VdmF0S0" target="_blank">
+  <img src="agua-boa-inicio.png" width="100%"/>
+</a>
+<p>The tool was a success, it aroused the interest of public administrators about the responsibility of making data transparent to the population. I was interviewed by the television channel, Watch the video clicking on the image below:</p>
+<a href="https://www.youtube.com/watch?v=m8g5FtaurD4&t=134s" target="_blank">
+  <img src="interesse-publico.png">
+</a>
+<a href="https://agua.mpf.mp.br" target="_blank">
+  <img src="monitoramento.png">
+</a>
+<a href="https://agua.mpf.mp.br" target="_blank">
+  <img src="detalhe-monitoramento.png">
+</a>
+  
+##
+  
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+    
+<p>In 2019 I became a collaborator (pro bono - voluntary activity) of the Water Connection project. I started to study public data on water quality in Brazil. Modeled the data using datawarewouse techniques, generated analytical reports with the ELK stack (Elasticsearch, Logstash and Kibana). With that, I started to show the results of the data for the other collaborators of the project as well as for prosecutors in the environmental area, judges, researchers, academic entrepreneurs and etc.</p>
+
+    
+##
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+     
+ <p>In 2018 I developed  the website of the water connection project that is classified in the area of ​​governance and sustainability management.</p>
+    
+
+<a href="https://conexaoagua.mpf.mp.br/" target="_blank">
+    <img id="img-logo-menu"  src="old-logo-conexao-agua-branco.png" alt="Link para o site Conexão Água">
+</a>
+ 
+<a href="https://conexaoagua.mpf.mp.br/" target="_blank">
+  <img src="site-conexao.png" width="100%">
+</a>
+    
+    
+##
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+    
+<p>In 2013, I developed the site Brasil Nunca Mais Digital, a successful project that already has more than 5.5 million documents accessed since August 2013.</p><p>The project aims to to keep the memory of the dictatorial period in Brazil. We can define BRAZIL: NEVER AGAIN as the most comprehensive investigation about torture carried out by citizens in their country.</p>
+
+<a href="http://bnmdigital.mpf.mp.br/" target="_blank">
+  <img id="img-logo-menu" width="100%"  src="site-bnm.png" alt="Link para o site BNM Digital" style="margin: 50px;float: left;">
+</a>
+
+##
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+<p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
+
+  </span>
+</div>
+ 
+##
+
+<div align="center">
+  <a href="https://github.com/benefrancis" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benefrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 50px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&layout=compact&langs_count=7&theme=dracula" style="margin: 50px;"/>
+</div>
+
+ 
  
 
 <div> 
