@@ -139,9 +139,7 @@
 <h2>Integration</h2>
 <div style="display: inline_block"><br>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
-  
+    
   <img  align="center" alt="Benefrancis-AWS"  height="80" width="80"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  style="margin: 50px;" />
 
 
