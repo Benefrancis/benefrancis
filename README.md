@@ -144,6 +144,19 @@
 
 
   <img align="center" alt="Benefrancis-Jenkins"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  style="margin: 50px;"/>
+  
+  
+  
+  <img align="center" alt="Benefrancis-Gitlab"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+
+
+  
+  <img  align="center" alt="Benefrancis-Git"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+
+  
+  <img  align="center" alt="Benefrancis-Docker"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
+  <img align="center" alt="Benefrancis-Docker-Composer"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 
   
   <img align="center" alt="Benefrancis-Oracle"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="margin: 50px;"/>
