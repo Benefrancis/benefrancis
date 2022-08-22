@@ -156,7 +156,7 @@
   
   <img  align="center" alt="Benefrancis-Docker"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-  <img align="center" alt="Benefrancis-Docker-Composer"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+ 
 
   
   <img align="center" alt="Benefrancis-Oracle"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="margin: 50px;"/>
