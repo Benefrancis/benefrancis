@@ -113,7 +113,7 @@
  
  
  
-  <img align="center" alt="Benefrancis-Go" height="80" width="80"rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="margin: 50px;"/>
+  <img align="center" alt="Benefrancis-Go" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="margin: 50px;"/>
  
  
 
