@@ -1,3 +1,5 @@
+<!--  https://devicon.dev/  -->
+
 <div align="left">
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-developer-devops-soft-fill-soft-fill-juicy-fish-2.png"/>
   <br>
