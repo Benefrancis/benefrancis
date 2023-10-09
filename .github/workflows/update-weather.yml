@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: benefrancis/weather-forecast@latest
+        uses: benefrancis/weather-forecast
         with:
           city: Osasco
           days: 3
