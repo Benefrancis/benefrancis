@@ -229,6 +229,6 @@ Partly cloudy
 
 <div align="right">
 
-*Updated at: 2023-10-08T18:27:11Z - by **[benefrancis/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-08T18:27:11Z - by **[benefrancis/weather-forecast](https://github.com/benefrancis/weather-forecast)***
 
 </div>
