@@ -114,10 +114,10 @@
 <p>In 2023 I was hired as a Domain Driven Design teacher at FIAP, where I have been teaching Java, Object Oriented Programming, JPA Object-Relational Mapping and Hibernate for undergraduate courses in Information Technology for Technology courses in Systems Analysis and Development. I have also been an instructor for an online Java course on the institution's platform.</p>
 
  
-<img src="img/curso-nano-fiap-2.png" alt="" border=0 height=341 width=640></img>
-<img src="img/curso-nano-fiap-5.png" alt="" border=2 height=341 width=640></img>
-<img src="img/curso-nano-fiap.png" alt="" border=2 height=341 width=640></img>
-<img src="img/curso-nano-fiap-3.png" alt="" border=2 height=341 width=640></img>
+<img src="img/curso-nano-fiap-2.png" alt="" border=0 height=172 width=304></img>
+<img src="img/curso-nano-fiap-5.png" alt="" border=2 height=172 width=304></img>
+<img src="img/curso-nano-fiap.png" alt="" border=2 height=172 width=304></img>
+<img src="img/curso-nano-fiap-3.png" alt="" border=2 height=172 width=304></img>
 
 
 
