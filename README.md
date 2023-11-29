@@ -109,7 +109,6 @@
 </div>
 
 
-
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 <p>In 2023 I was hired as a Domain Driven Design teacher at FIAP, where I have been teaching Java, Object Oriented Programming, JPA Object-Relational Mapping and Hibernate for undergraduate courses in Information Technology for Technology courses in Systems Analysis and Development. I have also been an instructor for an online Java course on the institution's platform.</p>
 
@@ -119,11 +118,7 @@
 <img src="img/curso-nano-fiap.png" alt="" border=2 height=172 width=304></img>
 <img src="img/curso-nano-fiap-3.png" alt="" border=2 height=172 width=304></img>
 
-
-
 <p>With the personal project, I'm developing various technology classes for sharing knowledge:</p>
-
-
 
 <img src="img/aulas/docker.png" alt="" border=3 height=172 width=304></img>
 <img src="img/aulas/hateoas.png" alt="" border=3 height=172 width=304></img>
