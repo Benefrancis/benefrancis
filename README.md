@@ -106,11 +106,37 @@
   <img  align="center" alt="Benefrancis-Docker"  height="80" width="80" style="margin: 50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 
-
-
-
-
 </div>
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+<p>In 2023 I was hired as a Domain Driven Design teacher at FIAP, where I have been teaching Java, Object Oriented Programming, JPA Object-Relational Mapping and Hibernate for undergraduate courses in Information Technology for Technology courses in Systems Analysis and Development. I have also been an instructor for an online Java course on the institution's platform.</p>
+
+ 
+<img src="img/curso-nano-fiap-2.png" alt="" border=0 height=1024 width=1920></img>
+<img src="img/curso-nano-fiap-5.png" alt="" border=2 height=341 width=640></img>
+<img src="img/curso-nano-fiap.png" alt="" border=2 height=341 width=640></img>
+<img src="img/curso-nano-fiap-3.png" alt="" border=2 height=341 width=640></img>
+
+
+
+<p>With the personal project, I'm developing various technology classes for sharing knowledge:</p>
+
+
+
+<img src="img/aulas/docker.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/hateoas.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/jakarta.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/spring.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/jdbc.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/heap.png" alt="" border=3 height=172 width=304></img>
+
+<img src="img/aulas/sockets.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/git.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/devops.png" alt="" border=3 height=172 width=304></img>
+<img src="img/aulas/jpa.png" alt="" border=3 height=172 width=304></img>
+
 
 ##          
 
@@ -134,6 +160,34 @@
 </a>
 
 ##
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+<p>In 2020 - 2021
+
+I was responsible for developing the access permissions control system for the Federal Public Ministry, acting as Project Manager, Developer and Designer. In this project I worked with the following technologies:
+
+Angular 11+, Java 8, Spring Boot, JPA, jenkins, continuous integration, Gitlab, Oracle, Git, TypeScript etc.
+
+Here are some images of the application's main screens:
+
+</p>
+
+
+<img src="img/autoriza.png" alt="" border=2 ></img>
+
+<img src="img/autoriza-menu.png" alt="" border=2 ></img>
+
+<img src="img/unico-usuarios.png" alt="" border=2 ></img>
+
+<img src="img/permissoes.png" alt="" border=2 ></img>
+
+<img src="img/copiando-permissoes.png" alt="" border=2 ></img>
+
+<img src="img/gestao-de-perfis.png" alt="" border=2 ></img>
+
 
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 
@@ -170,8 +224,129 @@
 
 <p>In 2012, I developed the routine for distributing lawsuits for the regional prosecutors of the republic.</p>
 
-  </span>
-</div>
+  
+
+## Old Projects
+
+Time passes too quickly. I'm proud of every job I do. I've learned a lot from all of them.
+
+I met people and was challenged to innovate, improvise, work in groups, be accountable and bring results to my clients. Below are some of my old projects.
+
+###
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2010 - Free Workbook - "Desenvolva Passo a Passo um Sistema Web com Java + JPA ..." 
+
+The idea was to distribute a tutorial to help new developers work with Java for the web, using the technologies available at the time.
+
+The project developed was a petshop.
+
+![PETSHOP.jpg](img%2FPETSHOP.jpg)
+
+![PETSHOP-2.jpg](img%2FPETSHOP-2.jpg)
+
+![PETSHOP-3.jpg](img%2FPETSHOP-3.jpg)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2009 - MPT NEWS (MPT NOTÍCIAS) 
+
+A system for registering and maintaining news from the Prosecutor's Office. This system allowed headlines to be registered in a variety of formats, it was also possible to send direct mailings and the news was automatically made available on the Prosecutor's Office portal.
+
+![MPT-NOTICIAS.jpg](img%2FMPT-NOTICIAS.jpg)
+
+![MPT-NOTICIAS-2.jpg](img%2FMPT-NOTICIAS-2.jpg)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2009 - Portal of the Regional Labor Prosecutor's Office of the 15th Region - Campinas - SP
+
+I created a new portal for the prosecutor's office. On this portal, I made various services available to the community. Such as the possibility of consulting the labor cases in which the prosecutor's office was acting, a transparency module for the expenses incurred by the prosecutor's office where various information was made available on the transparency of the use of public money, a tool for citizens to know in which unit they could be served more quickly...among others.
+
+![PORTAL-MPT-2.jpg](img%2FPORTAL-MPT-2.jpg)
+
+![Portal-MPT.jpg](img%2FPortal-MPT.jpg)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2008 - SAPS (Sistema para Administração de Perícias dos Servidores do INSS)
+
+I developed an application for the Brazilian Social Security system to include and control medical examinations carried out by civil servants. This application worked in conjunction with the scheduling system, as summarized below:
+
+- The branch offices schedule the medical examinations of the civil servants under their responsibility in slots previously created by the executive management's HR department in the SAPS intranet system (implemented in January 2008);
+- The civil servant attends on the appointed day and time;
+- The medical expert will access the appointment made and type the examination into the system. This examination must be recorded in a database and the report filed in the server's file.
+
+
+![SPS.jpg](img%2FSPS.jpg)
+
+
+![SAPS-Tela Principal.png](img%2FSAPS-Tela%20Principal.png)
+
+![SAPS- identificacao.png](img%2FSAPS-%20identificacao.png)
+
+![SAPS- identificacao-2.png](img%2FSAPS-%20identificacao-2.png)
+
+![SAPS- atendimento.png](img%2FSAPS-%20atendimento.png)
+
+![SAPS- exame fisico.png](img%2FSAPS-%20exame%20fisico.png)
+
+![SAPS- exame laboratorial.png](img%2FSAPS-%20exame%20laboratorial.png)
+
+![SAPS- hist da doenca.png](img%2FSAPS-%20hist%20da%20doenca.png)
+
+![SAPS- quesitos.png](img%2FSAPS-%20quesitos.png)
+
+![SAPS-parecer.png](img%2FSAPS-parecer.png)
+
+![SAPS-relatorios.png](img%2FSAPS-relatorios.png)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2006 - SABER ( Extremely Fast Library Administration System )
+
+
+
+![SABER.jpg](img%2FSABER.jpg)
+
+![SABER-1.jpg](img%2FSABER-1.jpg)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2006 - Site e Web Portifólio da Francana Metal 
+
+In partnership with Ponto4 Digital, I developed the Francana Metal website.
+
+![francana.jpg](img%2Ffrancana.jpg)
+
+![Francana-2.jpg](img%2FFrancana-2.jpg)
+
+
+
+
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-calendar-business-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+
+### 2004 - Site - Beautiful jewelry * Lindas Joias * 
+
+![lindas-joias.jpg](img%2Flindas-joias.jpg)
+
+
 
 ##
 
@@ -180,4 +355,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benefrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 50px;"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benefrancis&layout=compact&langs_count=7&theme=dracula" style="margin: 50px;"/>
 </div>
-
