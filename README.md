@@ -162,9 +162,9 @@
 
 <p>In 2020 - 2021
 
-I was responsible for developing the access permissions control system for the Federal Public Ministry, acting as Project Manager, Developer and Designer. In this project I worked with the following technologies:
+I was responsible for developing the access permissions control system for the Federal Public Ministry, acting as Project Manager (Agile Scrum methodology), Developer and Designer. In this project I worked with the following technologies:
 
-Angular 11+, Java 8, Spring Boot, JPA, jenkins, continuous integration, Gitlab, Oracle, Git, TypeScript etc.
+Angular 11+, Java 8, Spring Boot, JPA, jenkins, continuous integration, Gitlab, Oracle, Git, TypeScript.
 
 Here are some images of the application's main screens:
 
