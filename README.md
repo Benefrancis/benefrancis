@@ -20,7 +20,13 @@
   <br>
   <p>Hello! My name is <strong>Benefrancis</strong></p>
   <span align="left">
-<p>I have a degree in information systems and specialization in web software development.</p>
+<p>I'm a software engineer</p>
+
+
+
+<a href="https://benefrancis.streamlit.app" target="_blank">
+ <img src="resume.png" target="_blank" style="margin: 50px;">
+</a>
 
 
 <h2>Frontend</h2>
