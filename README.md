@@ -25,7 +25,7 @@
 
 
 <a href="https://benefrancis.streamlit.app" target="_blank">
- <img src="img/resume.png" target="_blank" style="margin: 50px;" width=200>
+ <img src="img/resume.png" alt="Curiculum Online" style="margin: 50px;" width=200>
 </a>
 
 
